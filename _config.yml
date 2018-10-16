@@ -11,7 +11,7 @@ github_repo: "https://github.com/boyuanyan/boyuanyan.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human."
+sidebar-about-description: ""
 sidebar-avatar: /img/about-YBY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
